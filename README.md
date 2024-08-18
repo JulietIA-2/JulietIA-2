@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Juliet
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently  learning and working on real world projects
-- 💞️ I’m looking to collaborate on more projects
+- 👀 I’m a Data Science Enthusiast
+- 🌱 I’m currently learning, upskilling and working on real world projects in Data
+- 💞️ I’m constantly seeking opportunities for growth and ways to make imapact
 - 📫 How to reach me @anaetohj@gmail.com
 - 😄 Pronouns: Her
 - ⚡ Fun fact: My positive energy rubs off on people
