@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Juliet
-- 👀 I’m a Data Science Student at University Of Leicester (wth one year industry)
+- 👀 I’m a Data Science Student at University Of Leicester ( one year industry)
 - 🌱 I’m currently learning, upskilling and working on real world projects in Data
 - 💞️ I’m constantly seeking opportunities for growth and ways to make impact
 - 📫 How to reach me @anaetohj@gmail.com
